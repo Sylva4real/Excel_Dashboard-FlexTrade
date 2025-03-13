@@ -7,9 +7,13 @@ I conducted an Excel dashboard analysis to identify performance gaps, analyse us
 Key Actions Taken:
 
 ✔ Data Cleaning & Preparation – Ensured accuracy and consistency for meaningful insights.
+
 ✔ KPI Identification – Focused on bounce rate, cart abandonment rate, conversion rates, and average order value.
+
 ✔ Data Visualization – Created an interactive Excel dashboard using pivot tables, slicers, and dynamic charts for trend analysis.
+
 ✔ Trend & Pattern Analysis – Applied conditional formatting and calculated fields to highlight performance bottlenecks and customer behaviours.
+
 ✔ Actionable Insights & Recommendations – Developed a PowerPoint report presenting data-driven strategies to optimise UX, streamline checkout, and increase conversions.
 This data-driven approach provided key business insights, enabling strategic improvements that enhanced user engagement, improved checkout efficiency, and boosted overall sales. 
 
