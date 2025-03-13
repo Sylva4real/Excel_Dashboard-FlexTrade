@@ -1,4 +1,4 @@
-# Excel_Dashboard-FlexTrade
+# Data Analysis Using Excel- FlexTrade
 This project features Excel dashboards and PowerPoint presentations I developed for FlexTrade, an e-commerce platform. Through data analysis and visualisation, I identified key business insights to optimise customer engagement, streamline the checkout process, and drive sales growth.
 
 An online shopping brand faced high bounce rates, cart abandonment, and low average order value, limiting sales and customer engagement. Despite having a user-friendly app, many visitors exited without making purchases.
