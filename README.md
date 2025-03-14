@@ -15,5 +15,5 @@ Key Actions Taken:
 ✔ Trend & Pattern Analysis – Applied conditional formatting and calculated fields to highlight performance bottlenecks and customer behaviours.
 
 ✔ Actionable Insights & Recommendations – Developed a PowerPoint report presenting data-driven strategies to optimise UX, streamline checkout, and increase conversions.
-This data-driven approach provided key business insights, enabling strategic improvements that enhanced user engagement, improved checkout efficiency, and boosted overall sales. 
+This data-driven approach provided key business insights, enabling strategic improvements that enhanced user engagement, improved checkout efficiency, and boosted overall sales. TECH STACK USED : MICROSFOT EXCEL
 
